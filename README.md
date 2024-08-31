@@ -103,5 +103,5 @@ Update the database connection settings (DB_HOST, DB_USER, DB_PASS, and DB_NAME)
 Run the Application:
 
 In your web browser, navigate to http://localhost/premium-properties to access the web application.
-Project Structure
+
 
