@@ -87,3 +87,57 @@ Follow these steps to set up the Premium Properties web application on your loca
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/yourusername/premium-properties.git
+Set Up XAMPP:
+
+Move the cloned project folder into the htdocs directory of your XAMPP installation.
+Start Apache and MySQL in the XAMPP control panel.
+Database Setup:
+
+Open phpMyAdmin by navigating to http://localhost/phpmyadmin in your web browser.
+Create a new database named premium_properties.
+Import the database.sql file located in the project’s root directory into the newly created database.
+Configure the Application:
+
+Open the config.php file located in the /config directory.
+Update the database connection settings (DB_HOST, DB_USER, DB_PASS, and DB_NAME) with your MySQL credentials.
+Run the Application:
+
+In your web browser, navigate to http://localhost/premium-properties to access the web application.
+Project Structure
+Here is a brief overview of the project's directory structure:
+
+/assets:
+Contains all static assets including images, CSS files, and JavaScript scripts.
+
+/config:
+Configuration files such as config.php for setting up database connections and other global settings.
+
+/views:
+Frontend templates for various pages including authentication screens, property listings, and user/admin dashboards.
+
+/models:
+PHP classes representing the database models. These classes handle data interaction and CRUD operations.
+
+/controllers:
+Handles the business logic of the application, managing the flow of data between models and views.
+
+/public:
+Contains public-facing files and the main entry point (index.php) of the application.
+
+Future Enhancements
+While the current implementation meets the project requirements, there are several potential enhancements:
+
+Email Notifications:
+Implement automated email notifications to inform users about new properties, approvals, or important updates.
+
+Advanced Filtering:
+Add more granular filtering options such as property size, number of bedrooms, and property amenities.
+
+User Profiles:
+Extend user profiles with additional personal information and customization options for a more personalized experience.
+
+Mobile Responsiveness:
+Optimize the application for mobile devices to improve usability on smartphones and tablets.
+
+License
+This project is developed as part of a university assignment and is not intended for commercial use.
