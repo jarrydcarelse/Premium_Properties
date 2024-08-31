@@ -6,7 +6,7 @@
 **Course:** Advanced PHP Concepts and Authentication  
 **Year:** Second-Year Development Student
 
-![Header Image](path/to/your/header-image.jpg)
+![Header Image]([path/to/your/header-image.jpg](https://github.com/jarrydcarelse/Premium_Properties/blob/main/header-image.jpg))
 
 ## Project Overview
 
