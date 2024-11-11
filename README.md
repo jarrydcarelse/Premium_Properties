@@ -1,4 +1,4 @@
-# Premium Palaces
+# Premium Properties
 
 **Author:** Jarryd Carelse  
 **Contact:** +27 71 480 8011 | 221267@virtualwindow.co.za  
@@ -7,12 +7,16 @@
 **Year:** Second-Year Development Student
 
 ![Header Image](./headerpp.jpg)
-
+**Author:** Jarryd Carelse  
+**Contact:** +27 71 480 8011 | 221267@virtualwindow.co.za  
+**Project Type:** University Assignment  
+**Course:** Advanced PHP Concepts and Authentication  
+**Year:** Second-Year Development Student
 ---
 
 ## Project Overview
 
-**Premium Palaces** is a sophisticated web application developed to simulate the functionalities of a real estate agency's online platform. This project was undertaken as part of a university assignment to demonstrate advanced skills in PHP, SQL, and full-stack web development. The application supports property management, user interactions, and administrative content moderation, all through an intuitive and secure interface.
+**Premium Properties** is a sophisticated web application developed to simulate the functionalities of a real estate agency's online platform. This project was undertaken as part of a university assignment to demonstrate advanced skills in PHP, SQL, and full-stack web development. The application supports property management, user interactions, and administrative content moderation, all through an intuitive and secure interface.
 
 This project is designed to highlight key competencies such as user authentication, CRUD (Create, Read, Update, Delete) operations, and the implementation of role-based access control, providing a solid foundation for developing complex, real-world web applications.
 
