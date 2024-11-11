@@ -6,7 +6,7 @@
 **Course:** Advanced PHP Concepts and Authentication  
 **Year:** Second-Year Development Student
 
-![Header Image](./header-image.jpg)
+![Header Image](./headerpp.jpg)
 
 ---
 
