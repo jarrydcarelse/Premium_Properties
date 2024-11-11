@@ -1,12 +1,8 @@
 # Premium Properties
 
-**Author:** Jarryd Carelse  
-**Contact:** +27 71 480 8011 | 221267@virtualwindow.co.za  
-**Project Type:** University Assignment  
-**Course:** Advanced PHP Concepts and Authentication  
-**Year:** Second-Year Development Student
 
 ![Header Image](./headerpp.jpg)
+---
 **Author:** Jarryd Carelse  
 **Contact:** +27 71 480 8011 | 221267@virtualwindow.co.za  
 **Project Type:** University Assignment  
