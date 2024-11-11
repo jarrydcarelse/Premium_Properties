@@ -1,0 +1,137 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.navbar {
+    background-color: #333;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar ul li {
+    margin-left: 20px;
+}
+
+.navbar ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.navbar .profile img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.filter-section {
+    padding: 20px;
+    background-color: #fff;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.filter-section input,
+.filter-section select,
+.filter-section button {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.home-sections {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.home-sections .column {
+    background-color: #fff;
+    padding: 20px;
+    width: 30%;
+    text-align: center;
+}
+
+.about-us,
+.news-advice {
+    padding: 20px;
+    background-color: #fff;
+    margin-bottom: 20px;
+}
+
+.news-advice {
+    display: flex;
+    justify-content: space-between;
+}
+
+.news-advice .news,
+.news-advice .advice {
+    width: 45%;
+}
+
+.property-list,
+.property-details,
+.profile-details,
+.liked-properties,
+.saved-properties,
+.admin-section {
+    padding: 20px;
+    background-color: #fff;
+    margin-bottom: 20px;
+}
+
+.property-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.property-item img {
+    width: 100%;
+    height: auto;
+}
+
+.property-item h3,
+.property-item h4 {
+    margin: 10px 0;
+}
+
+.property-item p {
+    margin: 5px 0;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.pagination a {
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-decoration: none;
+    color: #333;
+}
+
+.footer {
+    padding: 20px;
+    background-color: #333;
+    color: white;
+    text-align: center;
+}
