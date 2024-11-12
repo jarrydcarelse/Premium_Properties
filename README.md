@@ -100,9 +100,18 @@ The application employs a relational database designed to efficiently manage use
 
 ## Installation & Setup
 
-To set up and run the Premium Properties web application on your local machine, follow these steps:
+To set up and run the Premium Properties web application on your local machine, follow these steps carefully:
 
-### 1. Clone the Repository
-Clone the project repository from GitHub to your local machine:
+### 1. Prerequisites
+
+Ensure you have the following software installed on your machine:
+
+- **XAMPP**: Download and install XAMPP from [https://www.apachefriends.org/index.html](https://www.apachefriends.org/index.html). XAMPP provides Apache (web server), MySQL (database), and PHP (backend scripting) necessary for this project.
+- **Git**: Install Git to clone the repository. You can download it from [https://git-scm.com/downloads](https://git-scm.com/downloads).
+
+### 2. Clone the Repository
+
+Clone the project repository from GitHub to your local machine using the following command:
+
 ```bash
 git clone https://github.com/yourusername/premium-properties.git
